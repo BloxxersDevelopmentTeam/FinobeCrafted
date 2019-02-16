@@ -1,7 +1,7 @@
 {
   "name": "finobe_crafted",
   "short_name": "fc",
-  "version": "1.4"
+  "version": "1.4",
   "icons": [{
         "src": "images/touch/icon-128x128.png",
         "sizes": "128x128",
